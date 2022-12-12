@@ -18,6 +18,7 @@
 }
 .main{
     align-items: center;
+    margin: auto;
 }
 .pt1{
     position: absolute;
